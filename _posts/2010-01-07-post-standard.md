@@ -1,5 +1,6 @@
 ---
 title: "Week 4Codelab"
+date: 2021-10-04
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
